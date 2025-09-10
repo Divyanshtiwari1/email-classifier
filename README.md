@@ -1,6 +1,6 @@
 Email Classifier
 
-Lightweight Python project to classify emails and update email status; supports a classical ML backend and an LLM backend (LangChain + Ollama).
+Lightweight Python project to classify emails and update email status; supports LLM backend (LangChain + Ollama).
 
 Files
 
@@ -12,7 +12,7 @@ streamlit_div.py — Streamlit UI
 
 Usage
 
-Use email_classification_div.py to generate category predictions; choose backend "sklearn" or "llm" (Ollama).
+Use email_classification_div.py to generate category predictions; choose backend  "llm" (Ollama).
 
 Use email_status_div.py to compute or update status labels.
 

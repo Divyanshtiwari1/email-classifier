@@ -1,6 +1,6 @@
 Email Classifier
 
-Lightweight Python project to classify emails and update email status; supports LLM backend (LangChain + Ollama).
+ Python project to classify emails and update email status; supports LLM backend (LangChain + Ollama).
 
 Files
 
